@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\slider\\slider.wxss","sources":["webpack:///slider.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\nslider{\r\n    margin-bottom: 30px;\r\n}"],"mappings":";AAEA;AACA;AACA;;","sourceRoot":""}

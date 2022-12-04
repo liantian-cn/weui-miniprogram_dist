@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\footer\\footer.wxss","sources":["webpack:///footer.wxss"],"sourcesContent":["/* 作为展示用的样式 */\r\n@import '../common.wxss';\r\n\r\n.weui-footer{\r\n    margin-bottom: 50px;\r\n}\r\n.weui-footer_fixed-bottom{\r\n    margin-bottom: 0;\r\n}"],"mappings":";AAAA;AACA;AAEA;AACA;AACA;AACA;AACA;AACA;;","sourceRoot":""}

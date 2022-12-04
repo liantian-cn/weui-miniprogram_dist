@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\article\\article.wxss","sources":["webpack:///article.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\npage{\r\n    background-color: #FFFFFF;\r\n}\r\nimage{\r\n    margin: 4px 0;\r\n}"],"mappings":";AAEA;AACA;AACA;AACA;AACA;AACA;;","sourceRoot":""}

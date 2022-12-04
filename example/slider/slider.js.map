@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\slider\\slider.js","sources":["webpack:///./src/example/slider/slider.js?1cef","webpack:///./src/example/slider/slider.js"],"sourcesContent":["module.exports = require(\"!./slider.js\")","Page({});"],"mappings":";;;;;;;;;;;;;;;AAAA;;;;;;;;;;;ACAA;;;;;;;;","sourceRoot":""}

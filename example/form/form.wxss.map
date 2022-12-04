@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\form\\form.wxss","sources":["webpack:///form.wxss"],"sourcesContent":["/* example/input/input.wxss */\r\n@import '../common.wxss';\r\n\r\n.weui-agree .weui-agree__text {\r\n  display: inline;\r\n}"],"mappings":";AAAA;AACA;AAEA;AACA;AACA;;","sourceRoot":""}

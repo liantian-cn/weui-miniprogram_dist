@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\picker\\picker.wxss","sources":["webpack:///picker.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\npage{\r\n    background-color: #FFFFFF;\r\n}\r\npicker{margin-bottom:16px;}\r\n"],"mappings":";AAEA;AACA;AACA;AACA;;;","sourceRoot":""}

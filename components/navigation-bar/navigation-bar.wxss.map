@@ -1,0 +1,1 @@
+{"version":3,"file":"components\\navigation-bar\\navigation-bar.wxss","sources":["webpack:///./src/components/navigation-bar/navigation-bar.less"],"sourcesContent":[".weui-navigation-bar__btn_goback_wrapper {\n  padding: 11px 18px 11px 16px;\n  margin: -11px -18px -11px -16px;\n}"],"mappings":"AAAA;AACA;AACA;AACA;;;","sourceRoot":""}

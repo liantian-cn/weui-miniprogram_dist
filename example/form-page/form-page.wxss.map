@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\form-page\\form-page.wxss","sources":["webpack:///form-page.wxss"],"sourcesContent":["@import '../common.wxss';\r\npage{height:100%;}\r\n"],"mappings":";AACA;;;","sourceRoot":""}

@@ -1,0 +1,7 @@
+@import "../../_commons/61.wxss";
+.page {
+    background-color: var(--weui-BG-2)
+}
+
+
+/* # sourceMappingURL=loadmore.wxss.map */

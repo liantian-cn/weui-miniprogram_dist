@@ -1,0 +1,9 @@
+@import "../../_commons/61.wxss";
+page{
+    background-color: #FFFFFF;
+}
+picker{margin-bottom:16px;}
+
+
+
+/* # sourceMappingURL=picker.wxss.map */

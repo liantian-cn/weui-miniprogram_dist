@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\badge\\badge.js","sources":["webpack:///./src/example/badge/badge.js?d80a","webpack:///./src/example/badge/badge.js"],"sourcesContent":["module.exports = require(\"!./badge.js\")","import CustomPage from '../../base/CustomPage'\r\n\r\nCustomPage({})"],"mappings":";;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;ACAA;AAAA;AAAA;AAEA;;;;;;;;","sourceRoot":""}

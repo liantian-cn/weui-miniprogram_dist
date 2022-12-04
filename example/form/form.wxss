@@ -1,0 +1,9 @@
+@import "../../_commons/61.wxss";
+/* example/input/input.wxss */
+
+.weui-agree .weui-agree__text {
+  display: inline;
+}
+
+
+/* # sourceMappingURL=form.wxss.map */

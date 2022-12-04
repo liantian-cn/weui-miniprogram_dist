@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\msg\\msg.wxss","sources":["webpack:///msg.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\npage{\r\n    background-color: #FFFFFF;\r\n}\r\n"],"mappings":";AAEA;AACA;AACA;;;","sourceRoot":""}

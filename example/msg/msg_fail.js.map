@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\msg\\msg_fail.js","sources":["webpack:///./src/example/msg/msg_fail.js?4f07","webpack:///./src/example/msg/msg_fail.js"],"sourcesContent":["module.exports = require(\"!./msg_fail.js\")","import CustomPage from '../../base/CustomPage'\r\n\r\nCustomPage({})"],"mappings":";;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;ACAA;AAAA;AAAA;AAEA;;;;;;;;","sourceRoot":""}

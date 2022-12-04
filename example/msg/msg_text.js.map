@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\msg\\msg_text.js","sources":["webpack:///./src/example/msg/msg_text.js?a9e2","webpack:///./src/example/msg/msg_text.js"],"sourcesContent":["module.exports = require(\"!./msg_text.js\")","import CustomPage from '../../base/CustomPage'\r\n\r\nCustomPage({})\r\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;ACAA;AAAA;AAAA;AAEA;;;;;;;;","sourceRoot":""}

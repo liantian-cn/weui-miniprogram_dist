@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\button\\button.js","sources":["webpack:///./src/example/button/button.js?1a19","webpack:///./src/example/button/button.js"],"sourcesContent":["module.exports = require(\"!./button.js\")","Page({});"],"mappings":";;;;;;;;;;;;;;;AAAA;;;;;;;;;;;ACAA;;;;;;;;","sourceRoot":""}

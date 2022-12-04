@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\loading\\loading.wxss","sources":["webpack:///loading.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\n.page .demo0 {\r\n  height: 60px;\r\n  background: white;\r\n}\r\n\r\n.page .demo1 {\r\n  height: 60px;\r\n  background: rgba(0,0,0,.1);\r\n}"],"mappings":";AAEA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;","sourceRoot":""}

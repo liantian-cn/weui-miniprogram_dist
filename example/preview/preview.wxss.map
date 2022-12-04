@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\preview\\preview.wxss","sources":["webpack:///preview.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\n.weui-form-preview{\r\n    margin-bottom: 25px;\r\n}"],"mappings":";AAEA;AACA;AACA;;","sourceRoot":""}

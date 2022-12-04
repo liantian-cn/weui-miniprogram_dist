@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\badge\\badge.wxss","sources":["webpack:///badge.wxss"],"sourcesContent":["/* example/badge/badge.wxss */\r\n@import '../common.wxss';\r\n\r\n.blue {\r\n  background: blue;\r\n}"],"mappings":";AAAA;AACA;AAEA;AACA;AACA;;","sourceRoot":""}

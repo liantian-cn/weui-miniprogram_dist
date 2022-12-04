@@ -1,0 +1,1 @@
+{"version":3,"file":"components\\msg\\msg.wxss","sources":["webpack:///./src/components/msg/msg.less"],"sourcesContent":[".weui-msg__icon-img {\n  width: 190rpx;\n  height: 190rpx;\n}\n\n"],"mappings":"AAAA;AACA;AACA;AACA;;;","sourceRoot":""}

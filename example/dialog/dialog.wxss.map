@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\dialog\\dialog.wxss","sources":["webpack:///dialog.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\n.page {\r\n    background-color: var(--weui-BG-2);\r\n}"],"mappings":";AAEA;AACA;AACA;;","sourceRoot":""}

@@ -1,0 +1,7 @@
+@import "../../_commons/61.wxss";
+.weui-form-preview{
+    margin-bottom: 25px;
+}
+
+
+/* # sourceMappingURL=preview.wxss.map */

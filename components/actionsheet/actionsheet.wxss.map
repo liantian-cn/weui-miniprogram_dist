@@ -1,0 +1,1 @@
+{"version":3,"file":"components\\actionsheet\\actionsheet.wxss","sources":["webpack:///./src/components/actionsheet/actionsheet.less"],"sourcesContent":[".weui-actionsheet__action {\n  padding-bottom: 0;\n}\n\n.weui-actionsheet__cell_cancel {\n  padding-bottom: calc(16px + env(safe-area-inset-bottom));\n}\n"],"mappings":"AAAA;AACA;AACA;AAEA;AACA;AAAA;;;","sourceRoot":""}

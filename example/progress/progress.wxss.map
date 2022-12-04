@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\progress\\progress.wxss","sources":["webpack:///progress.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\npage{background-color:#FFFFFF;}\r\n.weui-progress{\r\n    margin-bottom: 24px;\r\n}\r\n"],"mappings":";AAEA;AACA;AACA;AACA;;;","sourceRoot":""}

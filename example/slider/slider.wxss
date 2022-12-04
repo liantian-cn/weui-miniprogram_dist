@@ -1,0 +1,7 @@
+@import "../../_commons/61.wxss";
+slider{
+    margin-bottom: 30px;
+}
+
+
+/* # sourceMappingURL=slider.wxss.map */

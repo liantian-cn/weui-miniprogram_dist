@@ -1,0 +1,9 @@
+@import "../../_commons/61.wxss";
+/* example/badge/badge.wxss */
+
+.blue {
+  background: blue;
+}
+
+
+/* # sourceMappingURL=badge.wxss.map */

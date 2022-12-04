@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\searchbar\\searchbar.wxss","sources":["webpack:///searchbar.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\n.searchbar-result{\r\n    margin-top: 0;\r\n    font-size: 14px;\r\n}\r\n\r\n.searchbar-result:before{\r\n    display: none;\r\n}\r\n"],"mappings":";AAEA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;;","sourceRoot":""}

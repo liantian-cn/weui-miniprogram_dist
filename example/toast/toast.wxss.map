@@ -1,0 +1,1 @@
+{"version":3,"file":"example\\toast\\toast.wxss","sources":["webpack:///toast.wxss"],"sourcesContent":["@import '../common.wxss';\r\n\r\npage{\r\n    background-color: #FFFFFF;\r\n}"],"mappings":";AAEA;AACA;AACA;;","sourceRoot":""}
