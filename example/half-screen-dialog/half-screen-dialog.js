@@ -44,6 +44,11 @@ Object(_base_CustomPage__WEBPACK_IMPORTED_MODULE_0__["default"])({
       className: '',
       text: '主操作',
       value: 1
+    }, {
+      type: 'primary',
+      className: '',
+      text: '主操作',
+      value: 2
     }]
   },
   openTypeF: function openTypeF() {

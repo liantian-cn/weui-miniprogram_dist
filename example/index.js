@@ -59,6 +59,7 @@ Object(_base_CustomPage__WEBPACK_IMPORTED_MODULE_0__["default"])({
     }]
   },
   kindToggle: function kindToggle(e) {
+    console.log(this.data.list)
     var id = e.currentTarget.id,
         list = this.data.list;
 
